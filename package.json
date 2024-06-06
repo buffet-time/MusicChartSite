@@ -1,7 +1,7 @@
 {
 	"name": "musicchartsite",
 	"description": "A website to create Music Charts",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"type": "module",
 	"private": "true",
 	"author": {
